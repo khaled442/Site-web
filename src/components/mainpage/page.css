@@ -1,0 +1,41 @@
+.page {
+  margin-top: 120px;
+  width: 100%;
+  height: 800px;
+  background-color: rgba(255, 165, 0, 0.79);
+}
+.title {
+  padding-top: 50px;
+  color: aliceblue;
+}
+.title h1 {
+  font-size: 40px;
+}
+.title-logo img {
+  width: 200px;
+  height: 150px;
+  border-radius: 40px;
+}
+.title-logo ul {
+  margin-top: 80px;
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+.title-desc ul {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  font-size: 23px;
+  color: white;
+}
+.logo1 ul {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  font-size: 18px;
+  color: white;
+}
+.logo1 ul li {
+  width: 290px;
+}

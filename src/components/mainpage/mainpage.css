@@ -1,0 +1,40 @@
+.main-page {
+  /* margin-top: 200px; */
+  width: 780px;
+  height: 320px;
+  margin-left: 550px;
+  padding-top: 30px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 15px;
+}
+.main-page h1 {
+  margin-right: 360px;
+  font-size: 42px;
+}
+.main-page h3 {
+  margin-right: 30px;
+  font-size: 19px;
+}
+.main-page p {
+  padding-top: 8px;
+}
+.main-page p span {
+  margin-left: 12px;
+}
+.img {
+  margin-right: 800px;
+  margin-top: 200px;
+  background-image: url(https://www.domoklic.com/wp-content/uploads/2020/07/DMK-Borne.jpg);
+  background-repeat: no-repeat;
+  margin-left: 50px;
+}
+.BTN {
+  background-color: orange;
+  border-radius: 8px;
+  height: 41px;
+  width: 220px;
+  color: aliceblue;
+  cursor: pointer;
+  margin-top: 20px;
+  margin-right: 500px;
+}

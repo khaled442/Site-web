@@ -1,0 +1,40 @@
+.nav-ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  list-style: none;
+  background-color: rgba(255, 165, 0, 0);
+  position: relative;
+}
+.nav li {
+  font-size: 22px;
+  margin-top: 50px;
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  cursor: pointer;
+}
+.nav li:hover {
+  color: black;
+}
+.nav {
+  background-image: url("https://www.leaseplan.com/-/media/leaseplan-digital/shared/images/other/illustrations/02001159_lpevhomepage2000x966px_v2.jpg?rev=-1");
+  width: auto;
+  height: 650px;
+}
+.nav-para {
+  font-size: 60px;
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+  margin-right: 750px;
+  padding-top: 50px;
+  font-weight: bolder;
+}
+.btn {
+  background-color: orange;
+  border-radius: 8px;
+  height: 41px;
+  width: 220px;
+  margin-right: 850px;
+  color: aliceblue;
+  cursor: pointer;
+}
